@@ -1,2 +1,2 @@
 # hello-world
-intitiatinjg a repository
+This is me, some guy with no idea, intitiating a repository
